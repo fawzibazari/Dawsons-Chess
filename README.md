@@ -1,2 +1,2 @@
 # Dawsons-Chess
-a small game made in schoolusing python
+a small game made in school using python
